@@ -1,2 +1,4 @@
 # WebP2PNG
-WebP2PNG
+
+pip install pillow
+
