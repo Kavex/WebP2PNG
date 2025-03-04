@@ -4,7 +4,7 @@
 
 A simple desktop application built with Python and Tkinter that converts WEBP image files to PNG format while preserving transparency.
 
-Download: https://github.com/Kavex/WebP2PNG/releases/
+Exe Download: https://github.com/Kavex/WebP2PNG/releases/
 
 ## Features
 
